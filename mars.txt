@@ -1,4 +1,7 @@
 Cold and dry, but everything is my favourite color
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
+<<<<<<< HEAD
 this is my new file to test checkout
+=======
+>>>>>>> parent of dccccf4... Write plans to start a base on Venus
